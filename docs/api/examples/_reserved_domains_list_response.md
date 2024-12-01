@@ -9,20 +9,20 @@
 		{
 			"acme_challenge_cname_target": null,
 			"certificate": {
-				"id": "cert_2p88oVRxwCZM1eEJDqedAK1KrQF",
-				"uri": "https://api.ngrok.com/tls_certificates/cert_2p88oVRxwCZM1eEJDqedAK1KrQF"
+				"id": "cert_2pbvODh0Csp15g06b1nYyvJ5sAL",
+				"uri": "https://api.ngrok.com/tls_certificates/cert_2pbvODh0Csp15g06b1nYyvJ5sAL"
 			},
 			"certificate_management_policy": null,
 			"certificate_management_status": null,
-			"cname_target": "2udamkamcl8pjmrff.46f1tgpn3wop5exhi.local-ngrok-cname.com",
-			"created_at": "2024-11-20T21:01:56Z",
+			"cname_target": "2udamkamcl8pjmrff.4wkcwgnhjmrc1nvnh.local-ngrok-cname.com",
+			"created_at": "2024-12-01T10:05:55Z",
 			"domain": "myapp.mydomain.com",
 			"error_redirect_url": null,
 			"http_endpoint_configuration": null,
 			"https_endpoint_configuration": null,
-			"id": "rd_2p88oSwNQF7IJkLgxpiGOjaQqQw",
+			"id": "rd_2pbvOLpaitrfSuvdRnmVJJNXyvl",
 			"region": "",
-			"uri": "https://api.ngrok.com/reserved_domains/rd_2p88oSwNQF7IJkLgxpiGOjaQqQw"
+			"uri": "https://api.ngrok.com/reserved_domains/rd_2pbvOLpaitrfSuvdRnmVJJNXyvl"
 		},
 		{
 			"acme_challenge_cname_target": null,
@@ -36,21 +36,21 @@
 					"error_code": null,
 					"msg": "Managed certificate provisioning in progress.",
 					"retries_at": null,
-					"started_at": "2024-11-20T21:01:57Z"
+					"started_at": "2024-12-01T10:05:56Z"
 				},
 				"renews_at": null
 			},
-			"cname_target": "4knqktdwka2umyjjc.46f1tgpn3wop5exhi.local-ngrok-cname.com",
-			"created_at": "2024-11-20T21:01:56Z",
+			"cname_target": "4knqktdwka2umyjjc.4wkcwgnhjmrc1nvnh.local-ngrok-cname.com",
+			"created_at": "2024-12-01T10:05:56Z",
 			"description": "Device 0001 Dashboard",
 			"domain": "manage-0002.app.example.com",
 			"error_redirect_url": null,
 			"http_endpoint_configuration": null,
 			"https_endpoint_configuration": null,
-			"id": "rd_2p88odETP5uJA0cy9Wa3IbenLuW",
+			"id": "rd_2pbvOLcU5ES3H0st5iazHphrgkh",
 			"metadata": "{\"service\": \"dashboard\"}",
 			"region": "",
-			"uri": "https://api.ngrok.com/reserved_domains/rd_2p88odETP5uJA0cy9Wa3IbenLuW"
+			"uri": "https://api.ngrok.com/reserved_domains/rd_2pbvOLcU5ES3H0st5iazHphrgkh"
 		}
 	],
 	"uri": "https://api.ngrok.com/reserved_domains"
